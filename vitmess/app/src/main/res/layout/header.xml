@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/teal_700"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:padding="14sp">
+
+    <ImageView
+        android:layout_width="164dp"
+        android:layout_height="108dp"
+        android:contentDescription="Header Image"
+        android:src="@drawable/ii">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="209dp"
+        android:layout_height="46dp"
+        android:text="Ja Mata di"
+        android:textSize="24sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="180dp"
+        android:layout_height="51dp"
+        android:text="Shree ram"
+        android:textSize="18sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+</LinearLayout>

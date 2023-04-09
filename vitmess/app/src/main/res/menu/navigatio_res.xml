@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24">
+
+    </item>
+    <item
+        android:id="@+id/Details"
+        android:title="Details">
+
+    </item>
+    <item
+        android:id="@+id/set"
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_home_24">
+
+    </item>
+
+
+
+
+
+</menu>

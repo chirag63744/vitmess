@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string-array name="Food">
+        <item>Idli</item>
+        <item>roti</item>
+        <item>Masala dosa</item>
+        <item>Rava dosa</item>
+        <item>Butter Panner</item>
+        <item>Channa Masala</item>
+        <item>Naan</item>
+        <item>Fruit</item>
+        <item>Salad</item>
+        <item>Papad</item>
+        <item>Chicken</item>
+        <item>Gobi</item>
+        <item>Pasta</item>
+        <item>Burger</item>
+        <item>Pizza</item>
+        <item>Ice Cream</item>
+    </string-array>
+    <string name="OpenDrawer">Open navigation drawer</string>
+    <string name="CloseDrawer">Close navigation drawer</string>/
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_amount">Enter Amount</string>
+
+
+</resources>
