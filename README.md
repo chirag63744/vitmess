@@ -30,7 +30,7 @@ Introducing the ultimate solution for hassle-free and efficient on-campus dining
 
 - <b>Customer Support:</b> Dedicated customer support is just a tap away. Reach out for assistance with orders, payments, or any app-related queries.
 
-## ER Diagram
+## ER - Diagram
 
 ![image](https://github.com/chirag63744/vitmess/assets/76260302/f09ad63e-d54f-4707-8359-247bc345cf3c)
 
